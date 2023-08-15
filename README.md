@@ -1,7 +1,5 @@
-# ADA-F
-Anti-Derivatives Approximator from Fourier series expansion
 
-Universal Approximators from Anti-Derivatives: Enhancing Neural Networks
+# Universal Approximators from Anti-Derivatives: Enhancing Neural Networks
 Jeongsu Lee
 Department of mechanical, smart, and industrial engineering, Gachon University, Seongnam 13120, South Korea
 Corresponding authors: leejeongsu@gachon.ac.kr 
